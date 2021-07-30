@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá, eu sou a Vanessa. Seja bem vindo!
 
-<!--
-**VanessaGomesdeOliveira/VanessaGomesdeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando front-end (HTML, CSS, JavaScript)
+- 📫 Constate-me no email: assenavsp@hotmail.com
+- 😄 Pronouns: ela/dela
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/VanessaGomesdeOliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaGomesdeOliveira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaGomesdeOliveira&layout=compact&langs_count=7&theme=buefy"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
