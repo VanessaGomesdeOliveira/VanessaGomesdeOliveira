@@ -1,8 +1,8 @@
 ## Olá, eu sou a Vanessa. Seja bem vindo!
 
-- 🌱 Estudando front-end (HTML, CSS, JavaScript)
-- 📫 Constate-me no email: assenavsp@hotmail.com
-- 😄 Pronouns: ela/dela
+- 🌱 Estudando front-end (HTML, CSS, JavaScript) e back-end (Java);
+- 📫 Constate-me no email: assenavsp@hotmail.com;
+- 😄 Pronouns: ela/dela.
 
 <div>
   <a href="https://github.com/VanessaGomesdeOliveira">
